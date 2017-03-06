@@ -1,0 +1,67 @@
+C:\Users\Rony Cruz\Documents\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\bin\Debug\farmacia.exe.config
+C:\Users\Rony Cruz\Documents\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.exe
+C:\Users\Rony Cruz\Documents\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.pdb
+C:\Users\Rony Cruz\Documents\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\bin\Debug\farmacia.exe
+C:\Users\Rony Cruz\Documents\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\bin\Debug\farmacia.pdb
+C:\Users\Rony Cruz\Documents\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.csprojResolveAssemblyReference.cache
+C:\Users\Rony Cruz\Documents\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.confirmarPermisos.resources
+C:\Users\Rony Cruz\Documents\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.consUsuarios.resources
+C:\Users\Rony Cruz\Documents\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.crearUsuario.resources
+C:\Users\Rony Cruz\Documents\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.eliminarUsuario.resources
+C:\Users\Rony Cruz\Documents\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.Form1.resources
+C:\Users\Rony Cruz\Documents\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.Form2.resources
+C:\Users\Rony Cruz\Documents\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.Properties.Resources.resources
+C:\Users\Rony Cruz\Documents\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.csproj.GenerateResource.Cache
+C:\Users\Rony Cruz\Documents\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.cambiarContra.resources
+C:\Users\Rony Cruz\Documents\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.desbloquearUsuario.resources
+G:\last pc backup\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\bin\Debug\farmacia.exe.config
+G:\last pc backup\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.exe
+G:\last pc backup\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.pdb
+G:\last pc backup\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\bin\Debug\farmacia.exe
+G:\last pc backup\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\bin\Debug\farmacia.pdb
+G:\last pc backup\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.csprojResolveAssemblyReference.cache
+G:\last pc backup\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.cambiarContra.resources
+G:\last pc backup\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.confirmarPermisos.resources
+G:\last pc backup\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.consUsuarios.resources
+G:\last pc backup\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.crearUsuario.resources
+G:\last pc backup\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.desbloquearUsuario.resources
+G:\last pc backup\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.eliminarUsuario.resources
+G:\last pc backup\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.Form1.resources
+G:\last pc backup\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.Form2.resources
+G:\last pc backup\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.Properties.Resources.resources
+G:\last pc backup\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.csproj.GenerateResource.Cache
+C:\Users\Ing. Ronel Cruz\Documents\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\bin\Debug\farmacia.exe.config
+C:\Users\Ing. Ronel Cruz\Documents\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.exe
+C:\Users\Ing. Ronel Cruz\Documents\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.pdb
+C:\Users\Ing. Ronel Cruz\Documents\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\bin\Debug\farmacia.exe
+C:\Users\Ing. Ronel Cruz\Documents\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\bin\Debug\farmacia.pdb
+C:\Users\Ing. Ronel Cruz\Documents\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.csprojResolveAssemblyReference.cache
+C:\Users\Ing. Ronel Cruz\Documents\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.cambiarContra.resources
+C:\Users\Ing. Ronel Cruz\Documents\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.confirmarPermisos.resources
+C:\Users\Ing. Ronel Cruz\Documents\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.consUsuarios.resources
+C:\Users\Ing. Ronel Cruz\Documents\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.crearUsuario.resources
+C:\Users\Ing. Ronel Cruz\Documents\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.desbloquearUsuario.resources
+C:\Users\Ing. Ronel Cruz\Documents\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.eliminarUsuario.resources
+C:\Users\Ing. Ronel Cruz\Documents\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.Form1.resources
+C:\Users\Ing. Ronel Cruz\Documents\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.Form2.resources
+C:\Users\Ing. Ronel Cruz\Documents\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.Properties.Resources.resources
+C:\Users\Ing. Ronel Cruz\Documents\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.csproj.GenerateResource.Cache
+C:\Users\Ing. Ronel Cruz\Documents\Visual Studio 2015\Projects\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.verInformacionPersonal.resources
+C:\Users\el_lo\OneDrive\C#\proyecto de farmacia\farmacia\farmacia\bin\Debug\farmacia.exe.config
+C:\Users\el_lo\OneDrive\C#\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.exe
+C:\Users\el_lo\OneDrive\C#\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.pdb
+C:\Users\el_lo\OneDrive\C#\proyecto de farmacia\farmacia\farmacia\bin\Debug\farmacia.exe
+C:\Users\el_lo\OneDrive\C#\proyecto de farmacia\farmacia\farmacia\bin\Debug\farmacia.pdb
+C:\Users\el_lo\OneDrive\C#\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.csprojResolveAssemblyReference.cache
+C:\Users\el_lo\OneDrive\C#\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.cambiarContra.resources
+C:\Users\el_lo\OneDrive\C#\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.confirmarPermisos.resources
+C:\Users\el_lo\OneDrive\C#\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.consUsuarios.resources
+C:\Users\el_lo\OneDrive\C#\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.crearUsuario.resources
+C:\Users\el_lo\OneDrive\C#\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.desbloquearUsuario.resources
+C:\Users\el_lo\OneDrive\C#\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.eliminarUsuario.resources
+C:\Users\el_lo\OneDrive\C#\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.Form1.resources
+C:\Users\el_lo\OneDrive\C#\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.Form2.resources
+C:\Users\el_lo\OneDrive\C#\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.Properties.Resources.resources
+C:\Users\el_lo\OneDrive\C#\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.verInformacionPersonal.resources
+C:\Users\el_lo\OneDrive\C#\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.csproj.GenerateResource.Cache
+C:\Users\el_lo\OneDrive\C#\proyecto de farmacia\farmacia\farmacia\obj\Debug\farmacia.usuarios.resources
