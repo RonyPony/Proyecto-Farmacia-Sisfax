@@ -70,6 +70,7 @@
     <Compile Include="crearUsuario.Designer.cs">
       <DependentUpon>crearUsuario.cs</DependentUpon>
     </Compile>
+    <Compile Include="data.cs" />
     <Compile Include="desbloquearUsuario.cs">
       <SubType>Form</SubType>
     </Compile>

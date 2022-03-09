@@ -55,9 +55,7 @@ namespace farmacia
                 new System.Data.SqlClient.SqlConnection();
             // TODO: Modify the connection string and include any
             // additional required properties for your database.
-            conn.ConnectionString =
-             "integrated security=SSPI;data source=DESKTOP-5NFCGTG\\RONELCRUZ;" +
-             "persist security info=False;initial catalog=sisfax";
+            conn.ConnectionString = Properties.Settings.Default.farmaciaConnectionString;
             try
             {
                 conn.Open();
@@ -122,9 +120,7 @@ namespace farmacia
                 new System.Data.SqlClient.SqlConnection();
             // TODO: Modify the connection string and include any
             // additional required properties for your database.
-            conn.ConnectionString =
-             "integrated security=SSPI;data source=DESKTOP-5NFCGTG\\RONELCRUZ;" +
-             "persist security info=False;initial catalog=sisfax";
+            conn.ConnectionString = Properties.Settings.Default.farmaciaConnectionString;
             try
             {
                 String Consulta = "select estado from usuarios where contraseña='" + textBox2.Text + "' and usuario ='" + textBox1.Text + "' and tipo = '" + comboBox1.Text + "';";

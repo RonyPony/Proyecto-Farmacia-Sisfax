@@ -13,13 +13,16 @@ namespace farmacia
 {
     public partial class Form2 : Form
     {
-        public Form2(string nombreusuario, string contraseñausuario, string tipousuario)
+        public Form2(int id)
         {
             InitializeComponent();
-            obtenerSexo(nombreusuario, contraseñausuario, tipousuario);
+            data fo = new data();
+            string nombreusuario = fo.getUserName(id);
+            label1.Text = fo.getSex(id);
+            label5.Text = fo.getUserCode(id);
+            darBienvenida();
             label2.Text = nombreusuario.ToUpper();
-            label3.Text = tipousuario.ToUpper();
-            label4.Text = contraseñausuario;
+            label3.Text = fo.getUserType(id);
             string usuario = nombreusuario;
             if (usuario=="bloquear") { notificacionBloqueo(); }
             verificarBloqueo();
@@ -90,28 +93,7 @@ namespace farmacia
             }
         }
 
-        public void obtenerSexo(string nombreUsuario, string contraseña, string tipo)
-        {
-            System.Data.SqlClient.SqlConnection conexion =
-            new System.Data.SqlClient.SqlConnection();
-            conexion.ConnectionString =
-            "integrated security=SSPI;data source=DESKTOP-5NFCGTG\\RONELCRUZ;" +
-            "persist security info=False;initial catalog=sisfax";
-            //MessageBox.Show("comienza proceso de extraccion de datos del sexo del usuario");
-            conexion.Open();
-           // MessageBox.Show("coneccion de base de datos establecida"); 
-            String Consulta = "select sexo, codigo from informacionDelUsuario where usuario= '" + nombreUsuario + "';";
-            SqlCommand Comando = new SqlCommand(Consulta, conexion);
-            SqlDataReader LectorDatos;
-            LectorDatos = Comando.ExecuteReader();
-            if (LectorDatos.Read())
-            {
-                label1.Text = LectorDatos["sexo"] == DBNull.Value ? "*ERROR*" : Convert.ToString(LectorDatos["sexo"]);
-                label5.Text = LectorDatos["codigo"] == DBNull.Value ? "*ERROR*" : Convert.ToString(LectorDatos["codigo"]);
-                conexion.Close();
-            }
-            darBienvenida();
-        }
+        
 
         public void darBienvenida()
         {
